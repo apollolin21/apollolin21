@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Apollo
+- 👀 I’m interested in business and programming
+- 🌱 I’m currently studying Economics and Business at the Virginia Military Institute
+- 💞️ I’m looking to collaborate on beginner-friendly projects
