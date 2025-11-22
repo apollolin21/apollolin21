@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Apollo
-- 👀 I’m interested in business and programming
-- 🌱 I’m currently studying Economics and Business at the Virginia Military Institute
+- 👀 I’m interested in front-end development, though my degree is in Economics and Business
+- 🌱 I’m currently a Project Manager at Amazon
 - 💞️ I’m looking to collaborate on beginner-friendly projects
